@@ -1,0 +1,3 @@
+Weights / comparison,Mean loss difference,NW(12) SE,t-statistic
+EW VAR - factor means,0.0001693,0.0000827,2.047
+VW VAR - factor means,0.0000673,0.0000322,2.089

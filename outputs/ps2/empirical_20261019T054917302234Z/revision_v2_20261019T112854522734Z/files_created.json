@@ -1,0 +1,194 @@
+{
+  "files": [
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\build.json",
+      "sha256": "0d2551110b148f4a8711a40f4ffce41e626f9984ba475aad34b25cc49b2c25c8"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\data_validation.json",
+      "sha256": "259bb8f7489c3e8a71f6f64c6781be1bc7a2a854a629e8603128ef156f0f82f0"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\page_map.json",
+      "sha256": "c4cbf356e001330a738d270014274858ea58d88a199455b78e78a909fd6af3bc"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\report_v2.pdf",
+      "sha256": "c24df6fe3b900f87c877bf6e7e8f278af2ad0321c76f1224307e29c9df1038ac"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\REPRODUCE.md",
+      "sha256": "cb5f5d5264837257347ad1c963563b0a44471ce8415c74740870e1f1e80345bc"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\requirement_mapping.md",
+      "sha256": "ce27040ac4a7e26a7e09b6c1ee922040e5c3ed4cbd3756c36a4653d50ddae99f"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\revision_review.json",
+      "sha256": "2483a18e49a08c4bca174149916316774ea73f09bb9a2190c3f463d0e1c67e1b"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\source_data.json",
+      "sha256": "c2590d1e528d97228de4e4e297fc6073f20e2fe3278714eaa913e6c2432e8742"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\tests.json",
+      "sha256": "68dc0155cd7b1d84382643ea49d3b594b15b82546018a5aba8421083072899d5"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\tests.txt",
+      "sha256": "abc7f57088c616ffa4445678981b36e21c649f027bcffd6770667e98169b8962"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\figures\\A_Q1_OOS_RMSE.pdf",
+      "sha256": "b7b48d0102a01e3c9ddfc203315b58db5419e73833c6466343b3f6ab4ad817b6"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\figures\\A_Q1_OOS_RMSE.png",
+      "sha256": "9909b4c56b8195c8c53660245b08bbe76d114c65557549e2ce2932835a5cd8d6"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\figures\\B_Q1_calibration.pdf",
+      "sha256": "3e5b939434a230201243366bf196da18b6eaa7c0570da55a2d2273d14e5fbdd2"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\figures\\B_Q1_calibration.png",
+      "sha256": "9cf1e4cefcd4af9268455ad91ef82b5368b1b5f38cf02bce1933ceef58a9f421"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\figures\\C_plot_data.csv",
+      "sha256": "33555c3b3330eef2e99820116064cd6efe42e175b3c6064e21b49b8049beb090"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\figures\\C_Q2_cumulative_loss.pdf",
+      "sha256": "057d1350ffe5d67a69e42f0a2e24c1bb23bea7011084ac3a45150870fddbd0fb"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\figures\\C_Q2_cumulative_loss.png",
+      "sha256": "75076f06bf005d460438e70d16b16ea44a8cf67c5146989cea2e9ca7e2ab017e"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\figures\\D_plot_data.csv",
+      "sha256": "22af091eb543346deebd21af66184d0864b5beda0238a8a5f2a4f24aa59266dd"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\figures\\D_Q3_monthly_value.pdf",
+      "sha256": "5608bf02350b03293cd2e41869d5798e1371ed04b15e0cc912ba4ae49f6449a7"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\figures\\D_Q3_monthly_value.png",
+      "sha256": "3b3a3ce7cda5e3145888043480969afc7b109e8621d6a35feb8950d3a8baf799"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-01.png",
+      "sha256": "536843c2429c61a3cf0457d68758d58c2a0a49bb38ad55c53c777619cfc67015"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-02.png",
+      "sha256": "7dede9f9d946a4740c264d5c08a6804e598a821d99dfaf4e20c855ab26081b96"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-03.png",
+      "sha256": "37409b0e79fa8b519b0e0d2b5e17d4ea5b9c00cf13b961bb325e7602a44cbf06"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-04.png",
+      "sha256": "c9ad7f73256c6984df5dc423e89ab6b5d38e13ac05f99f607370c1e06e5663ac"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-05.png",
+      "sha256": "023fb1ab74d2d2451559ced2a7f2a91c5c409ee3d0a0f3dd9e1a8ad29793fdf6"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-06.png",
+      "sha256": "bf95f01dc2e7173c69e48cabb1b0dfe4148bc930a23d94a7a16f8d8caf8e6257"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-07.png",
+      "sha256": "2234bf16bd83c911e926530e9d2ffc5361622560821b177d35bdcae0c5473b4a"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-08.png",
+      "sha256": "9d902fb2502df0c6ca45cedd73ae49573eb0056c84167a3b431189090861ce70"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-09.png",
+      "sha256": "63b700b004e9c71bb3d5e11ec5d3c0b1fe540b800f7ef0f0f7fd9c0e08ffe993"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-10.png",
+      "sha256": "ab672f0e1bae8d773747999d115f3674afd2394997d392540578b8f92dacd2bc"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-11.png",
+      "sha256": "dd5b1cae5883ca37d3aea7d9ecd607e41bc6e5ca16af18854329474356d4c6cf"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-12.png",
+      "sha256": "0fea7220bfb033c093ca0ff8a744b7bdeafb1b0829e377cb2dafbd29e78f0aed"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-13.png",
+      "sha256": "ec3b0c2bc721ff6f18c85f0e31d352ea3204014ce57458fe93608546462aee53"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-14.png",
+      "sha256": "0a41484cffc0eda132063355a2ad7df95ffba0622bbdc2f6c7597bf3f81a7c6e"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\rendered\\page-15.png",
+      "sha256": "b94890e327aac868f585ec7d2f900cff276ef8892c6c4fdb7db909d31a1f757d"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\tables\\Q3_no_OP_value_summary.csv",
+      "sha256": "f3f9eeb597d99b816eee67c61fb5067f142cd76b071d2d8ed419ef01ba6343e2"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\tables\\table_01_panel_01.csv",
+      "sha256": "f3ac2d68919b69c730714a02e5162cbf62a668e3b4c780cbb45516bd80bede00"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\tables\\table_02_panel_01.csv",
+      "sha256": "d3c6c93033f13d3d64d902849b04fb31c9e7bf200e0981215de53e545661468c"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\tables\\table_03_panel_01.csv",
+      "sha256": "1fa3326a4e6b877690ef95bea4e2dfc17c40844e535646262f462cc250411d77"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\tables\\table_03_panel_02.csv",
+      "sha256": "a4804630325601b201790bb4e45e6f07c5fa65d1a447ceab9ac8d0309b3ff971"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\tables\\table_03_panel_03.csv",
+      "sha256": "a7cdfc50ed879d554ded10ae1cdec7531b192079594a019d54f6d95b6e3d091b"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\tables\\table_04_panel_01.csv",
+      "sha256": "3ae8ca6c8c6d200a40ad6e20cbc9dc0cefe408bfd2a09bea7807223cd37e0738"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\tables\\table_05_panel_01.csv",
+      "sha256": "7128fd1f22e0531e51183844ae1612e45c780f3efe1e85bbb4884343e502b0d3"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\tables\\table_05_panel_02.csv",
+      "sha256": "37816cbaa913642427864c1f8be5a13c64964e1020fc61f3398f53c8d2c7b58b"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\tables\\table_06_panel_01.csv",
+      "sha256": "bac82c62bc3b170930dc64df63a90a33a1a646cb241b0a417de3e2562576ed09"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\tables\\table_06_panel_02.csv",
+      "sha256": "707bf5399933373635e8602f48b5b25ec962b610f66ea6b3612bf59227a99b7a"
+    },
+    {
+      "path": "outputs\\ps2\\empirical_20261019T054917302234Z\\revision_v2_20261019T112854522734Z\\tables\\table_07_panel_01.csv",
+      "sha256": "9a1a642e6a96f06b4515e801ab67efd9631df98208cf0c020bdd7f10573ea928"
+    }
+  ],
+  "generator": "scripts/ps2_report_v2.py",
+  "generator_sha256": "8d64d2bc96ba4cc03127aefd7dc784dcada56fddcae4d4af703ea4c4ce90fe3a"
+}

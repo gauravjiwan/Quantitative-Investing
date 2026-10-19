@@ -1,0 +1,39 @@
+[project]
+course = "FINC-B8420 Quantitative Investing"
+assignment = "Problem Set 1"
+timezone = "America/New_York"
+crsp_format = "CIZ"
+
+[sample]
+formation_data_start = "1963-06"
+market_data_start = "1962-12"
+return_start = "1963-07"
+return_end = "2025-12"
+frequency = "monthly"
+compustat_fiscal_start_year = 1961
+
+[universe]
+exchanges = ["NYSE", "NYSE American", "NASDAQ"]
+common_share_codes = [10, 11]
+breakpoint_exchange = "NYSE"
+include_inactive_securities = true
+
+[portfolio]
+formation_month = 6
+holding_months = 12
+size_deciles = 10
+double_sort_size_groups = 2
+double_sort_characteristic_groups = 3
+quintile_groups = 5
+
+[storage]
+duckdb_path = "data/processed/ps1.duckdb"
+raw_directory = "data/raw"
+processed_directory = "data/processed"
+output_directory = "outputs"
+
+[methodology]
+q3_split = "2000-07"
+zscore_ddof = 0
+hac_lags = 12
+minimum_regression_observations = 20

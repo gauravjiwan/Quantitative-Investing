@@ -1,0 +1,13 @@
+Period / weight,Forecast,MSE,R2: market (%),R2: factors (%)
+IS / EW,Historical market mean,0.02912968,0.000,0.461
+IS / EW,Expanding factor means,0.02926466,-0.463,0.000
+IS / EW,Expanding VAR(1),0.02932776,-0.680,-0.216
+IS / VW,Historical market mean,0.00826509,0.000,0.489
+IS / VW,Expanding factor means,0.00830574,-0.492,0.000
+IS / VW,Expanding VAR(1),0.00839646,-1.589,-1.092
+OOS / EW,Historical market mean,0.04002397,0.000,0.091
+OOS / EW,Expanding factor means,0.04006050,-0.091,0.000
+OOS / EW,Expanding VAR(1),0.04022985,-0.514,-0.423
+OOS / VW,Historical market mean,0.00850759,0.000,0.107
+OOS / VW,Expanding factor means,0.00851672,-0.107,0.000
+OOS / VW,Expanding VAR(1),0.00858404,-0.899,-0.790

@@ -1,0 +1,19 @@
+Period,Specification / characteristic,Mean (%),NW SE (%),t-statistic
+ALL,Full: Log ME,-0.0495,0.0715,-0.693
+ALL,Full: Log BM,0.1527,0.0447,3.416
+ALL,Full: Profitability,0.0715,0.0212,3.372
+ALL,Full: Investment,-0.0867,0.0158,-5.492
+ALL,Full: Predicted market beta,0.0155,0.0748,0.208
+ALL,Without OP: Log BM,0.1453,0.0439,3.312
+IS,Full: Log ME,-0.0985,0.1036,-0.951
+IS,Full: Log BM,0.2040,0.0563,3.625
+IS,Full: Profitability,0.0780,0.0293,2.666
+IS,Full: Investment,-0.1103,0.0186,-5.928
+IS,Full: Predicted market beta,0.0461,0.0805,0.573
+IS,Without OP: Log BM,0.1956,0.0555,3.527
+OOS,Full: Log ME,0.0215,0.0921,0.234
+OOS,Full: Log BM,0.0781,0.0700,1.116
+OOS,Full: Profitability,0.0620,0.0300,2.068
+OOS,Full: Investment,-0.0524,0.0264,-1.986
+OOS,Full: Predicted market beta,-0.0289,0.1443,-0.200
+OOS,Without OP: Log BM,0.0723,0.0684,1.058

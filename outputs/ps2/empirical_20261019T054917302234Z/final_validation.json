@@ -1,0 +1,26 @@
+{
+  "accepted_daily_files_checksum_verified": 4181,
+  "accepted_daily_rows": 102076552,
+  "PS1_security_input_unchanged": true,
+  "empirical_checks": {
+    "q1": {
+      "rows": 3397913,
+      "duplicate_keys": 0,
+      "invalid_keys_or_ME": 0,
+      "wrong_forecast_horizon": 0
+    },
+    "q2": {
+      "rows": 2774383,
+      "duplicate_keys": 0,
+      "invalid_keys_or_ME": 0,
+      "wrong_forecast_horizon": 0
+    },
+    "q3": {
+      "rows": 2668791,
+      "duplicate_keys": 0,
+      "invalid_keys_or_ME": 0,
+      "wrong_forecast_horizon": 0
+    }
+  },
+  "elapsed_seconds": 8.930799699970521
+}

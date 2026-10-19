@@ -1,0 +1,8 @@
+Statistic,ALL,IS,OOS
+Weighted projection R2: mean (%),31.691,32.777,30.115
+Weighted projection R2: minimum (%),15.562,19.703,15.562
+Weighted projection R2: maximum (%),53.801,50.248,53.801
+Max relative orthogonality error,8.952e-15,8.952e-15,5.354e-15
+Max absolute FWL slope error,4.267e-16,4.267e-16,2.628e-16
+Max affine slope-mapping error,2.984e-15,2.984e-15,9.324e-16
+Max affine fitted-return difference,2.225e-13,2.225e-13,4.702e-14
